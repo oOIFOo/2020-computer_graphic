@@ -1,0 +1,2 @@
+﻿  glad.c
+C:\Users\OIFO\Desktop\作業\計算機圖學\OpenGLFramework-VS2017\glad.c(25,10): error C1083:  無法開啟包含檔案: 'glad/glad.h': No such file or directory

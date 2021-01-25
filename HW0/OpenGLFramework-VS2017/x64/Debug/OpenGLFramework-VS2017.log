@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW0\OpenGLFramework-VS2017\main.cpp(113,33): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  OpenGLFramework-VS2017.vcxproj -> C:\Users\OIFO\Desktop\作業\計算機圖學\HW0\x64\Debug\OpenGLFramework-VS2017.exe

@@ -1,0 +1,13 @@
+﻿main.obj : error LNK2019: 無法解析的外部符號 _glfwInit 在函式 _main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 _glfwTerminate 在函式 _main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 _glfwWindowHint 在函式 _main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 _glfwCreateWindow 在函式 _main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 _glfwWindowShouldClose 在函式 _main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 _glfwSetFramebufferSizeCallback 在函式 _main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 _glfwPollEvents 在函式 _main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 _glfwSetKeyCallback 在函式 _main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 _glfwMakeContextCurrent 在函式 _main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 _glfwSwapBuffers 在函式 _main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 _glfwGetProcAddress 在函式 _main 中被參考
+C:\Users\OIFO\Desktop\作業\計算機圖學\lib\glfw.lib : warning LNK4272: 程式庫電腦類型 'x64' 與目標電腦類型 'x86' 發生衝突
+C:\Users\OIFO\Desktop\作業\計算機圖學\Debug\OpenGLFramework-VS2017.exe : fatal error LNK1120: 11 個無法解析的外部符號

@@ -1,0 +1,31 @@
+﻿  main.cpp
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(280,58): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(388,67): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(448,51): warning C4244: '-=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(453,47): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(458,51): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(463,53): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(466,51): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(469,76): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(494,17): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(495,17): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(501,53): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(502,53): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(507,51): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(508,51): warning C4244: '-=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(513,44): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(514,44): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(519,58): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(520,57): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(523,46): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(524,46): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(527,77): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(528,77): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(800,50): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(866,9): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'unsigned __int64'
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(866,9): message : 請考慮在格式字串中使用 '%zd'
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(866,9): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'unsigned __int64'
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(866,9): message : 請考慮在格式字串中使用 '%zd'
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(916,23): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\OpenGLFramework-VS2017\main.cpp(950,33): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  OpenGLFramework-VS2017.vcxproj -> C:\Users\OIFO\Desktop\作業\計算機圖學\HW3\x64\Debug\OpenGLFramework-VS2017.exe

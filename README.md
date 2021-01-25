@@ -1,1 +1,1 @@
-# 2020-computer_vision
+# 2020-computer_graphic
